@@ -6,8 +6,9 @@ The website that uses this API is in a separate project: [st-eves-frontend](http
 
 ## Screenshots
 
-<!-- Add your screenshots here, for example: -->
-<!-- ![Doctor dashboard](screenshots/doctor-dashboard.png) -->
+The doctors list, as the API returns it:
+
+![Doctors API](screenshots/doctors-api.png)
 
 ## What it does
 
