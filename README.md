@@ -9,6 +9,9 @@ The website that uses this API is in a separate project: [st-eves-frontend](http
 The doctors list, as the API returns it:
 
 ![Doctors API](screenshots/doctors-api.png)
+The Django admin panel, where staff manage doctors:
+
+![Django admin panel](screenshots/admin-panel.png)
 
 ## What it does
 
